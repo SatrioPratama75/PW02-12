@@ -78,7 +78,7 @@ Dan pada link pager ubah seperti berikut.
 Selanjutnya ujicoba dengan membuka kembali halaman admin artikel, masukkan kata
 kunci tertentu pada form pencarian.
 
-![Search-Result](https://github.com/SatrioPratama75/PW02-12/assets/92651803/b57532a8-708d-42d4-afc3-59d15a34a9a9)
+![Search-Result](https://github.com/SatrioPratama75/PW02-12/assets/92651803/92da1982-cb01-4466-82d2-a261b8649ffb)
 
 # Terima kasih
 
