@@ -30,5 +30,7 @@ pada method admin_index seperti berikut.
 
 Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut
 dibawah deklarasi tabel data.
-
+```php
+<?= $pager->links(); ?>
+```
 ![pagination-2](https://github.com/SatrioPratama75/PW02-12/assets/92651803/a4e80ff8-e55c-4718-95c5-0f944c765eee)
