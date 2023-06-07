@@ -11,8 +11,9 @@ Pada Codeigniter 4, fungsi pagination sudah tersedia pada Library sehingga cukup
 menggunakannya.
 Untuk membuat pagination, buka Kembali Controller Artikel, kemudian modifikasi kode
 pada method admin_index seperti berikut.
-'''php
-    public function admin_index()
+
+ ```php
+     public function admin_index()
     {
         $title = 'Daftar Artikel';
         $model = new ArtikelModel();
@@ -23,7 +24,8 @@ pada method admin_index seperti berikut.
         ];
         return view('artikel/admin_index', $data);
     }
- '''
+```
+
 ![Pagination-1](https://github.com/SatrioPratama75/PW02-12/assets/92651803/7f604b7e-bc39-4561-82f1-bfeedecb458e)
 
 Kemudian buka file views/artikel/admin_index.php dan tambahkan kode berikut
